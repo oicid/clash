@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/Dreamacro/clash/raw/master/docs/logo.png" alt="Clash" width="200">
+  <img src="https://raw.githubusercontent.com/vernesong/OpenClash/dev/img/logo.png" alt="Clash" width="200">
   <br>Clash<br>
 </h1>
 
@@ -23,18 +23,18 @@
 
 ## Features
 
-This is a general overview of the features that comes with Clash.  
+This is a general overview of the features that come with Clash.  
 
 - Inbound: HTTP, HTTPS, SOCKS5 server, TUN device
 - Outbound: Shadowsocks(R), VMess, Trojan, Snell, SOCKS5, HTTP(S), Wireguard
-- Rule-based Routing: dynamic scripting, domain, IP addresses, process name and more
-- Fake-IP DNS: minimises impact on DNS pollution and improves network performance
+- Rule-based Routing: dynamic scripting, domain, IP addresses, process name, and more
+- Fake-IP DNS: minimizes impact on DNS pollution and improves network performance
 - Transparent Proxy: Redirect TCP and TProxy TCP/UDP with automatic route table/rule management
 - Proxy Groups: automatic fallback, load balancing or latency testing
 - Remote Providers: load remote proxy lists dynamically
-- RESTful API: update configuration in-place via a comprehensive API
+- RESTful API: update configuration in place via a comprehensive API
 
-*Some of the features may only be available in the [Premium core](https://dreamacro.github.io/clash/premium/introduction.html).*
+*Some features may only be available in the [Premium core](https://dreamacro.github.io/clash/premium/introduction.html).*
 
 ## Documentation
 
